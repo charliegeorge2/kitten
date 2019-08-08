@@ -2,5 +2,6 @@ Feature: Hello
 
   @ORPHAN
   Scenario: George
-    Given Georged tt
-    And something
+    Given George
+    And something else
+    2
