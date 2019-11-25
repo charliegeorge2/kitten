@@ -2,5 +2,5 @@ Feature: Example
 
   george smells
 
-  @ORPHAN
+  @TISD-1 @OPEN
   Scenario: Scenario
