@@ -1,1 +1,1 @@
-Feature: Example
+Featur: Example
