@@ -1,1 +1,3 @@
-Featur: Example
+Feature: Example
+
+  george smells
